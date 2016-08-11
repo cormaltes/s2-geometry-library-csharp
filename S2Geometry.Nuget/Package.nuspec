@@ -8,6 +8,9 @@
     <description>
       S2Geometry
     </description>
+    <dependencies>
+      <dependency id="NETStandard.Library" version="1.6.0"/>
+    </dependencies>
   </metadata>
   <files>
     <file src="lib\" target="lib" />
