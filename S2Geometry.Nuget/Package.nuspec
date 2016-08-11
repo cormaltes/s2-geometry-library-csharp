@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>S2Geometry.NetCore</id>
+    <version>1.0.1</version>
+    <title>S2Geometry.Nuget</title>
+    <authors>cormaltes</authors>
+    <description>
+      S2Geometry
+    </description>
+  </metadata>
+  <files>
+    <file src="lib\" target="lib" />
+  </files>
+</package>
