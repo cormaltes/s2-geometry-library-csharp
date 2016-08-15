@@ -2,12 +2,16 @@
 <package >
   <metadata>
     <id>S2Geometry.NetCore</id>
-    <version>1.0.1</version>
+    <version>1.0.1.5</version>
     <title>S2Geometry.NetCore</title>
     <authors>cormaltes</authors>
-    <description>
-      S2Geometry
-    </description>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/cormaltes/s2-geometry-library-csharp</projectUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NetCore forked from https://github.com/onovotny/s2-geometry-library-csharp : The Google S2 Geometry Library is a spherical geometry library, very useful for manipulating regions on the sphere (commonly on Earth) and indexing geographic data.
+      This version targets NET Standard 1.0</description>
+    <tags>Google S2 Geo GeoSpatial geometry Hilbert portable pcl wp wp8 netstandard</tags>
     <dependencies>
       <dependency id="NETStandard.Library" version="1.6.0"/>
     </dependencies>
